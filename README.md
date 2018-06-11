@@ -5,5 +5,5 @@
 ## Instructions
 
 - Use anaconda distribution of python 2.7. 
-- `pip install google-cloud-bigquery==1.2.0`
-- `pip install pandas-gbq -U`
+- `pip install google-cloud-bigquery`
+- `pip install google-cloud-language`
